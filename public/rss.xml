@@ -4,7 +4,7 @@
         <title>New Starter Documentation Blog</title>
         <link>https://nextjs-starter-blog-demo.netlify.app/</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 12:38:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 14:08:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en-US</language>
@@ -13,7 +13,7 @@
             <title><![CDATA[Accessibility Post]]></title>
             <link>https://nextjs-starter-blog-demo.netlify.app/posts/accessibility-post</link>
             <guid>accessibility-post</guid>
-            <pubDate>Wed, 05 Jan 2022 18:30:00 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[How to make sure your code follows the rules for accessibility?]]></description>
             <content:encoded><![CDATA[
 How to make sure your code follows the rules for accessibility
@@ -59,7 +59,7 @@ Our app should follow at least the below mentioned criteria’s:
             <title><![CDATA[Long Post]]></title>
             <link>https://nextjs-starter-blog-demo.netlify.app/posts/long-post</link>
             <guid>long-post</guid>
-            <pubDate>Tue, 28 Jul 2020 18:30:00 GMT</pubDate>
+            <pubDate>Mon, 27 Jul 2020 23:00:00 GMT</pubDate>
             <description><![CDATA[Who doesn't like a long post showcasing the different headings?]]></description>
             <content:encoded><![CDATA[
 Far far away, behind the word mountains, far from the countries Vokalia and
@@ -169,7 +169,7 @@ for their projects again and again.]]></content:encoded>
             <title><![CDATA[Coding Post]]></title>
             <link>https://nextjs-starter-blog-demo.netlify.app/posts/coding-post</link>
             <guid>coding-post</guid>
-            <pubDate>Sat, 18 Apr 2020 18:30:00 GMT</pubDate>
+            <pubDate>Sat, 18 Apr 2020 23:00:00 GMT</pubDate>
             <description><![CDATA[Coding is such a blissful activity.]]></description>
             <content:encoded><![CDATA[
 ```jsx
@@ -185,7 +185,7 @@ export default CoolComponent;
             <title><![CDATA[Second post]]></title>
             <link>https://nextjs-starter-blog-demo.netlify.app/posts/second-post</link>
             <guid>second-post</guid>
-            <pubDate>Thu, 16 Apr 2020 18:30:00 GMT</pubDate>
+            <pubDate>Thu, 16 Apr 2020 23:00:00 GMT</pubDate>
             <description><![CDATA[The second post is the least memorable.]]></description>
             <content:encoded><![CDATA[
 # h1
@@ -201,7 +201,7 @@ Normal text
             <title><![CDATA[First post]]></title>
             <link>https://nextjs-starter-blog-demo.netlify.app/posts/first-post</link>
             <guid>first-post</guid>
-            <pubDate>Wed, 15 Apr 2020 18:30:00 GMT</pubDate>
+            <pubDate>Wed, 15 Apr 2020 23:00:00 GMT</pubDate>
             <description><![CDATA[The first post is the most memorable one.]]></description>
             <content:encoded><![CDATA[
 # h1

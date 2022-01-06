@@ -3,7 +3,7 @@ import clsx from "clsx";
 import Image from "next/image";
 
 import { getSiteMetaData } from "@utils/helpers";
-import profilePicture from "@/content/assets/profile.png";
+import profilePicture from "@/content/assets/ntt-logo.png";
 
 export function Bio({ className }) {
   const { author, social } = getSiteMetaData();
@@ -21,10 +21,10 @@ export function Bio({ className }) {
       </div>
 
       <p className="text-base leading-7">
-        Written by <b className="font-semibold">{author.name}</b>{" "}
+        Written by an <b className="font-semibold">{author.name}</b>{" "}
         {author.summary}{" "}
         <a href={`https://twitter.com/${social.twitter}`}>
-          Follow him on twitter
+          Follow them on twitter
         </a>
       </p>
     </div>
