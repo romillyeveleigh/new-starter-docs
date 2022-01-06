@@ -75,7 +75,7 @@ const LargeTitle = () => (
           "dark:text-white"
         )}
       >
-        New Starter Documentation Blog
+        New Starter Documentation Blogxx
       </a>
     </Link>
   </h1>
@@ -90,7 +90,7 @@ const SmallTitle = () => (
           "dark:text-white"
         )}
       >
-        New Starter Documentation Blog
+        New Starter Documentation Blogxx
       </a>
     </Link>
   </h1>
