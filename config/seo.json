@@ -1,16 +1,16 @@
 {
   "siteMetadata": {
-    "title": "Next.js Starter Blog",
+    "title": "New Starter Documentation Blog",
     "author": {
-      "name": "Jose Felix",
-      "summary": "who works building clean user interfaces with React.",
-      "link": "https://jfelix.info"
+      "name": "NTT Dev",
+      "summary": "who likes writing readable code.",
+      "link": "https://nttdata.code.com"
     },
     "description": "A blog created with Next.js and Tailwind.css",
-    "siteUrl": "https://nextjs-starter-blog-new-demo.vercel.app/",
+    "siteUrl": "https://nextjs-starter-blog-demo.netlify.app/",
     "language": "en-US",
     "social": {
-      "twitter": "Jose_R_Felix"
+      "twitter": "Ntt-data-code"
     }
   }
 }
