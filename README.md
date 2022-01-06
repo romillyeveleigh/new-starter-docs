@@ -2,7 +2,7 @@
   New Starter Docs (Forked from Next.js blog starter)
 </h1>
 
-Start off your writing journey with this Next.js markdown blog template.
+Documentation for Devs during furlough work.
 
 ## ✏ Features
 
